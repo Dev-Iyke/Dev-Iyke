@@ -2,7 +2,7 @@
 ## My name is Ikechukwu 👋
 
 # 💫 About Me:
-Passionate and driven frontend developer with a keen eye for design and a dedication to creating intuitive user experiences. Proficient in HTML, CSS, and JavaScript, with hands-on experience in frameworks such as React.js and Vue.js. Eager to contribute creativity, technical skills, and a collaborative mindset to an internship position in frontend development. Committed to continuous learning and staying updated with the latest trends and technologies in the field.<br><br>Ask me about web development | frontend development | Software Engineering | Internships | Volunteering
+Front-End foused Full-Developer skilled in TypeScript, React.js, Node.js, and modern UI frameworks. Experienced in building responsive and user-friendly web applications using Next.js, and Tailwind CSS. Proficient in consuming REST APIs, collaborating with backend teams, and implementing clean, scalable interfaces. Passionate about delivering intuitive user experiences and continuously improving technical proficiency through hands-on, project-based development.<br><br>Ask me about web development | frontend development | Software Engineering | Internships | Volunteering | Collaboration
 
 
 ## 🌐 Socials:
