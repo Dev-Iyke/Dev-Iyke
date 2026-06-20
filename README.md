@@ -2,7 +2,12 @@
 ## My name is Ikechukwu 👋
 
 # 💫 About Me:
-Front-End foused Full-Developer skilled in TypeScript, React.js, Node.js, and modern UI frameworks. Experienced in building responsive and user-friendly web applications using Next.js, and Tailwind CSS. Proficient in consuming REST APIs, collaborating with backend teams, and implementing clean, scalable interfaces. Passionate about delivering intuitive user experiences and continuously improving technical proficiency through hands-on, project-based development.<br><br>Ask me about web development | frontend development | Software Engineering | Internships | Volunteering | Collaboration
+Frontend-heavy Full Stack Developer specializing in building performant, scalable web applications with TypeScript, React, Next.js, and Node.js.
+
+I focus on crafting exceptional user experiences while understanding the systems that power them—building everything from polished interfaces and complex dashboards to API integrations, backend services, and production-ready applications.
+
+Passionate about solving real business problems, shipping quality software, and continuously expanding my expertise across the full development stack.
+<br><br>Ask me about Web Development | Frontend Development | Software Engineering | Full Stack Development | Collaboration
 
 
 ## 🌐 Socials:
